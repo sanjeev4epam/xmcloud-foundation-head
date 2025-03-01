@@ -3,7 +3,7 @@
 This repository contains the Next.js Starter Kit, and the SPA Starters monorepo (which includes a Node Proxy Application and SPA starter apps) for Sitecore XM Cloud Development. It is intended to get developers up and running quickly with a new front end project that is integrated with Sitecore XM Cloud.
 
 # Note
-This repository is used XM Cloud Practice for EPAM Team.
+This repository is used for XM Cloud Practice for EPAM Team.
 Collaborators please send your request to Join to sanjeev_gadamsetti@epam.com
 
 ## GitHub Template
